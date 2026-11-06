@@ -1,0 +1,21 @@
+# Dataset
+matches_seriea.csv
+SerieA.csv
+seriaA.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
